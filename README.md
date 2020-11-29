@@ -1,5 +1,6 @@
 # Heart-Disease---Search-for-risk-factors
-![HEART](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhealth.clevelandclinic.org%2Fwhat-is-a-mild-heart-attack-and-is-it-a-big-deal-or-not%2F&psig=AOvVaw2ekUae1nF64tnlBeDZKKwy&ust=1606755092861000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDrxqqbqO0CFQAAAAAdAAAAABAD)
+![HEART](https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/01/mildHeartAttack-866257238-770x553-650x428.jpg)
+
 # Introduction
 Data science is at the forefront in medicine. The classical area of heart disease diagnosis is a critical process step. The analysed dataset contains a range of symptoms and as the a result variable if the condition is malignent or benign.
 
