@@ -35,7 +35,7 @@ data.info()
 import matplotlib.pyplot as plt
 import seaborn as sns
 get_ipython().run_line_magic('matplotlib', 'inline')
-#was macht das nochmal?
+
 
 
 # In[7]:
@@ -111,6 +111,7 @@ lm = LinearRegression()
 
 
 # In[ ]:
+sns.countplot(x='target',data=data,hue='sex')
 
 
 
