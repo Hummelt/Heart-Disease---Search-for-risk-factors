@@ -1,5 +1,5 @@
 # Heart-Disease---Search-for-risk-factors
-
+![HEART](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhealth.clevelandclinic.org%2Fwhat-is-a-mild-heart-attack-and-is-it-a-big-deal-or-not%2F&psig=AOvVaw2ekUae1nF64tnlBeDZKKwy&ust=1606755092861000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDrxqqbqO0CFQAAAAAdAAAAABAD)
 # Introduction
 Data science is at the forefront in medicine. The classical area of heart disease diagnosis is a critical process step. The analysed dataset contains a range of symptoms and as the a result variable if the condition is malignent or benign.
 
@@ -52,8 +52,8 @@ The mean of the patients' = end 50. Peak at round about 60.
 Chest pain vs. diagnosis - gender comparison
 
 ![sex](sex_count.png)
+
 ![Pain](wms_men.png)
-cp_diagnosis_gender
 
 Males (flag 1) show an increase of chest pain (cp) while at the same time the likelyhood of a serious condition drops. For woman (flag 0) is the trend reversed.
 
