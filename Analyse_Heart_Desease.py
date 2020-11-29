@@ -118,7 +118,9 @@ sns.countplot(x='target',data=data,hue='sex')
 
 
 # In[ ]:
+sns.catplot(data=data, kind='bar',x='cp',y='target',hue='sex')
 
 
 
 
+# %%
