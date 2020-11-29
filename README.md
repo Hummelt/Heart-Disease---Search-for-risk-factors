@@ -44,10 +44,9 @@ All details are contained in the notebook.
 
 # Evaluation
 Age distibution of the patients
-![Age_Dist](C:\Users\demhumm\Documents\MH\Data\Heart-Disease---Search-for-risk-factors\age_dist.png)
-age distribution
+![Age_Dist](age_dist.png)
 
-The mean of the patients' age is end 50 with a peak at round about 60.
+The mean of the patients' = end 50. Peak at round about 60.
 
 Chest pain vs. diagnosis - gender comparison
 
