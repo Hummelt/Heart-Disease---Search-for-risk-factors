@@ -1,4 +1,5 @@
 # Heart-Disease---Search-for-risk-factors
+![HEART](https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/01/mildHeartAttack-866257238-770x553-650x428.jpg)
 
 # Introduction
 Data science is at the forefront in medicine. The classical area of heart disease diagnosis is a critical process step. The analysed dataset contains a range of symptoms and as the a result variable if the condition is malignent or benign.
@@ -44,13 +45,16 @@ All details are contained in the notebook.
 
 # Evaluation
 Age distibution of the patients
-![Age_Dist](age_dist.png)
 
+
+![Age_Dist](age_dist.png)
 The mean of the patients' = end 50. Peak at round about 60.
 
 Chest pain vs. diagnosis - gender comparison
 
-cp_diagnosis_gender
+![sex](sex_count.png)
+
+![Pain](wms_men.png)
 
 Males (flag 1) show an increase of chest pain (cp) while at the same time the likelyhood of a serious condition drops. For woman (flag 0) is the trend reversed.
 
