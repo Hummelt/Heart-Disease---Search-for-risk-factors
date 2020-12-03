@@ -23,8 +23,8 @@ The Cleveland database was provided by in [Kaggle](https://www.kaggle.com/ronitf
 Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
 University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
 University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
-V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D. Donor:
-David W. Aha  
+V.A. Medical Center, Long Beach and 
+Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D. Donor:David W. Aha  
 
 # PARAMETERS
 age
